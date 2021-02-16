@@ -5,7 +5,7 @@ License keys for different softwares
 
 ONLY FOR EDUCATIONAL PURPOSE.
 
-these files (Keys) were craeted as practice projects in visual studio in a attempt to learn and practice Visual Studio, C++, etc.
+these files (Keys) were created as practice projects in visual studio in an attempt to learn and practice Visual Studio, C++, etc.
 
 They are not meant or intended to promote piracy in any way.
 
