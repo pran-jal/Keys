@@ -15,7 +15,7 @@ They are not meant or intended to promote piracy in any way.
 STEPS
 
   WinRAR :-
-  Paste the rareg.key file in installation directory and restart WinRAR
+  Paste the rarreg.key file in installation directory and restart WinRAR
   
   Windows :-
   Download Windows batch file and Run it as Administrator.
