@@ -3,7 +3,7 @@ License keys for different softwares
 
 
 
-ONLY FOR EDUCATIONAL PURPOSE.
+    ONLY FOR EDUCATIONAL PURPOSE.
 
 these files (Keys) were created as practice projects in visual studio in an attempt to learn and practice Visual Studio, C++, etc.
 
