@@ -12,13 +12,13 @@ They are not meant or intended to promote piracy in any way.
 
 ! Please buy genuine Keys of softwares from original websites and support publishers/developers.
 
-STEPS
+        STEPS
 
-  WinRAR :-
+  - WinRAR :-
   Paste the rarreg.key file in installation directory and restart WinRAR (for WinRAR 6.0.0)
   
-  Windows :-
+  - Windows :-
   Download Windows batch file and Run it as Administrator.
   
-  TeraCopy :-
+  - TeraCopy :-
   Follow the instructions given along with the Key in TeraCopy Key.txt File.
