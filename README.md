@@ -22,3 +22,9 @@ They are not meant or intended to promote piracy in any way.
   
   - TeraCopy :-
   Follow the instructions given along with the Key in TeraCopy Key.txt File.
+
+<br>
+<br>
+<div align='center'>
+<img src = 'https://github.com/pran-jal/Keys/blob/main/rickroll.webp' />
+</div>
